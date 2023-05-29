@@ -1,0 +1,50 @@
+.social-share-icons,  .social-share-profile {
+    display: flex;
+    flex-direction: row;
+    padding-bottom: 20px;
+    justify-content: center;
+    align-items: center;
+}
+
+.social-share-icon {
+    padding-right: 25px;
+    padding-left: 25px;
+}
+
+.social-share-icon img {
+    height: 50px;
+    width: 50px;
+}
+
+.social-share-icon a {
+    text-align: -webkit-center;
+    color: #444444;
+}
+
+
+.share-button {
+    color: white;
+    background-color: #333333;
+}
+
+.share-button a, 
+.share-button a:hover,
+.share-button a:active,
+.share-button a:focus {
+    color: white;
+}
+
+.social-share-qr {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+@media screen and (max-width: 768px) {
+    .social-share-container .social-share-icons {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-gap: 10px;
+        text-align: center;
+    }
+}

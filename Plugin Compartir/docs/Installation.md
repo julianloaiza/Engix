@@ -10,15 +10,16 @@ A continuación se detallan los pasos para instalar y activar el plugin en tu si
 
 ## Pasos de instalación
 
-1. Descarga el archivo ZIP del plugin "social-share" desde el repositorio de GitHub.
-2. En tu sitio de WordPress, ve al menú "Plugins" y haz clic en "Añadir nuevo".
-3. Haz clic en el botón "Subir plugin" en la parte superior de la página.
-4. Selecciona el archivo ZIP del plugin que descargaste previamente "social-share.zip" y haz clic en "Instalar ahora".
-5. Una vez finalizada la instalación, haz clic en "Activar plugin".
-
-## Configuración del plugin
-
-Después de activar el plugin, puedes acceder a su configuración desde el menú "Plugins" o desde un nuevo elemento de menú específico del plugin en el panel de administración de WordPress. Aquí podrás realizar las configuraciones necesarias para adaptar el plugin a tus necesidades.
+1. Descarga el archivo ZIP del plugin "social-share" desde el repositorio de GitHub y descomprímelo.
+2. Accede al directorio del plugin "social-share" en tu computadora.
+3. Descarga la librería "phpqrcode" desde el siguiente enlace: https://sourceforge.net/projects/phpqrcode/.
+4. Descomprime el archivo ZIP de la librería "phpqrcode" descargado anteriormente.
+5. Copia la carpeta "phpqrcode" de la librería y pégala en el directorio del plugin "social-share" en tu computadora.
+6. Vuelve a comprimir el contenido del plugin "social-share" en un archivo ZIP asegurándote de que quede con la extensión .zip.
+7. En tu sitio de WordPress, ve al menú "Plugins" y haz clic en "Añadir nuevo".
+8. Haz clic en el botón "Subir plugin" en la parte superior de la página.
+9. Selecciona el archivo ZIP del plugin que descargaste previamente "social-share.zip" y haz clic en "Instalar ahora".
+10. Una vez finalizada la instalación, haz clic en "Activar plugin".
 
 ## Actualizaciones del plugin
 

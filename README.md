@@ -32,6 +32,29 @@ El "Tema Hijo UM" es un tema hijo personalizado basado en el tema Ultimate Membe
 
 Este repositorio se distribuye bajo la Licencia Pública General GNU v3.0 (GPL-3.0). Consulta el archivo LICENSE para obtener más información.
 
+## Contribuciones
+
+1. Para select2.min.js y select2.min.css:
+   - Autor: Select2 Team
+   - Fuente: https://github.com/select2/select2
+   - Licencia: MIT
+
+2. Para Ultimate Member:
+   - Autor: Ultimate Member Team
+   - Fuente: https://ultimatemember.com/
+   - Licencia: GNU GPLv2 o posterior
+
+3. Para phpqrcode:
+   - Autor: Dominik Dzienia
+   - Fuente: https://sourceforge.net/projects/phpqrcode/
+   - Licencia: GNU LGPLv3
+
+4. Para Hello Elementor package:
+   - Autor: Hello Elementor Team
+   - Fuente: https://github.com/elementor/hello-theme
+   - Licencia: GNU GPLv3
+
+
 ## Soporte
 
 Para obtener soporte o informar problemas relacionados con cualquiera de los plugins o el tema hijo, contáctanos en soporte@engix.co.

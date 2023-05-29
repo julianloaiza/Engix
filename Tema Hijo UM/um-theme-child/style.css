@@ -1,0 +1,58 @@
+/*
+Theme Name: Tema Hijo UM
+Theme URI: https://github.com/julianloaiza/Engix/tree/main/Tema%20Hijo%20UM
+Template: um-theme
+Author: Ultimate Member, Julián Loaiza
+Author URI: https://github.com/julianloaiza/
+Description: UM Theme Child es un tema hijo personalizado que ofrece una integración para Engix.co con Ultimate Member.
+Version: 1.0
+*/
+
+@media (min-width: 768px) {
+    .um-theme-profile-single-content.boot-col-md-8 {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+}
+
+.um-49.um {
+    max-width: 1200px !important;
+}
+
+.um-49.um .um-profile-body {
+    max-width: 800px !important;
+}
+
+.um-directory .um-members-wrapper .um-members.um-members-grid .um-member .um-member-card .um-member-tagline {
+    display: flex !important;
+    justify-content: center !important;
+}
+
+.jb-job-apply-wrapper {
+    display: flex;
+    width: 670px;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.container-card-content {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    overflow-y: auto;
+}
+
+.page-id-9 .single.page-meta,
+.page-id-10 .single.page-meta,
+.page-id-11 .single.page-meta,
+.page-id-44 .single.page-meta,
+.page-id-39 .single.page-meta,
+.page-id-81 .single.page-meta {
+    
+	display: none !important;
+}
+
+aside, .widget-area, .widget-area-side, widget-area widget-area-side {
+    display: none !important;
+}

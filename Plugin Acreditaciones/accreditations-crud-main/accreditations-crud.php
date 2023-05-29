@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: CRUD Acreditaciones
-Plugin URI: https://github.com/julianloaiza/Engix/blob/main/Plugin%20Acreditaciones
+Plugin URI: https://github.com/julianloaiza/Engix/tree/main/Plugin%20Acreditaciones
 Description: El plugin "CRUD Acreditaciones" permite a los usuarios cargar, administrar y mostrar sus documentos de acreditación en su sitio web de WordPress.
 Author: Julian Loaiza
 Author URI: https://github.com/julianloaiza

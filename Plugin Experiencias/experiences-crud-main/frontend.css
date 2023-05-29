@@ -1,0 +1,94 @@
+.experiences-crud-wrap * {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.experiences-crud-box{
+    padding: 1rem;
+    background: #fff;
+    box-shadow: 0px 10px 15px -3px rgba(0,0,0,0.1);
+    margin-bottom: 1rem;
+}
+.experiences-fake-icon {
+    width: 40px;
+    line-height: 41px;
+    text-align: center;
+    background: #000;
+    display: inline-block;
+    color: #fff;
+    font-weight: bold;
+    font-size: 25px;
+    border-radius: 50%;
+}
+.experiences-crud-edit-service-btn{
+    text-align: center;
+    cursor: pointer;
+}
+.experiences-crud-list-experiences-el-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.experiences-crud-link{
+    font-size: 14px;
+    font-weight: 500;
+    text-decoration: underline !important;
+    padding: 1rem;
+    color: #3f51b5;
+}
+.experiences-crud-link.experiences-crud-delete {
+    color: #c36;
+}
+.experiences-crud-list-experiences-el-header .experiences-crud-categories {
+    padding: 0;
+    display: flex;
+    gap: 0.5rem;
+}
+.experiences-crud-content, .page-content{
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+}
+.experiences-crud-list-experiences-el-header .experiences-crud-categories a {
+    background: #562578;
+    padding: .5rem 1rem;
+    border-radius: 1.5rem;
+    color: #fff;
+}
+.form-elm b{
+    font-weight: bold;
+    display: block;
+}
+.select2-container, .select2-container--default .select2-selection--multiple, .select2-search__field.select2-results__group,
+.select2-container .select2-search--inline, .select2-search__field {
+    width: 100% !important;
+    float: initial;
+}
+.experiences-crud-editor .form-elm {
+    margin-bottom: .5rem !important;
+}
+.select2-container--default.select2-container--focus .select2-selection--multiple{
+    border: 1px solid #ddd !important;
+}
+.select2-container--default .select2-selection--multiple{
+    padding: 5px;
+    border: 1px solid #ddd !important;
+}
+.serv-cats .select2-selection__choice {
+    margin-bottom: 0.5rem !important;
+}
+
+.form-elm.form-col2 {
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    gap: 12px;
+}
+
+.servtag-dateout, .servtag-datein {
+    border: none;
+    background-color: #f8f8f8;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 16px;
+}
+.form-elm.form-col2 > .col {width: calc(50% - 6px);}
+.form-elm input[type="date"]{border: 1px solid #ddd !important;}

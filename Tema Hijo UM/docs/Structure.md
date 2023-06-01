@@ -6,7 +6,7 @@ Dentro de la carpeta "um-theme-child" del tema hijo "UM Theme Child" se encuentr
 
 - **jobboardwp/emails**: Esta carpeta contiene el archivo de configuración de traducciones y la estructura para los envíos de correo del plugin JobBoardWP. Aquí se pueden realizar ajustes relacionados con las traducciones y los correos electrónicos generados por JobBoardWP.
 
-- **jobboardwp/job/footer.php**: Este archivo reescribe el archivo con la misma dirección en el plugin JobBoardWP para proporcionar una estructura personalizada y funciones adicionales, como enviar mensajes al cliente que publica el trabajo. Aquí se pueden realizar modificaciones y añadir funcionalidades específicas para adaptar el comportamiento del footer en los trabajos publicados.
+- **jobboardwp/job: Esta carpeta reescribe los archivos con la misma dirección en el plugin JobBoardWP para proporcionar una estructura personalizada, aquí se pueden realizar modificaciones y añadir funcionalidades específicas para adaptar el comportamiento del plugin JobBoardWP según las necesidades. Por ejemplo en este caso es utilizado para traducir componentes y en el footer.php específicamente para enviar mensajes al cliente que publica el trabajo.
 
 - **style.css**: Este archivo contiene los estilos CSS personalizados para el tema hijo "UM Theme Child". Aquí se pueden realizar modificaciones en los estilos visuales para adaptarlos al diseño general de tu sitio web.
 

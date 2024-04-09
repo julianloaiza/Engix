@@ -1,6 +1,6 @@
 # Repositorio Engix
 
-Este repositorio contiene 4 plugins y un tema hijo para la plataforma web Engix. Disponible en https://demo.engix.co/
+Este repositorio contiene 4 plugins y un tema hijo para el proyecto universitario de una web de marketplace para ingenieros llamado Engix.
 
 ## Plugins
 
